@@ -48,26 +48,26 @@
 
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
 |---|---|---|---|---|---|
-| 🥇 | [红杏云](https://go.clashshome.com/hongxingyun) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](https://hongxingyun1.com/web/#/login?code=bUIxQadH) |
+| 🥇 | [红杏云](https://hongxingyun.pro/web/#/login?code=B6PcC2tf) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](https://hongxingyun1.com/web/#/login?code=B6PcC2tf) |
 | 🥇 | [快雷GO](https://go.clashshome.com/kuaileigo) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 | [备用地址](https://www.kuailei.vip/register?code=n5YVQYr2) |
 
 ### 📋 其他机场（按月付价格排列）
 
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
 |---|---|---|---|---|---|
-| 1 | [飞鸟云](https://go.clashshome.com/feiniaoyun) | ¥1.00 / 月 (¥12/年) | Hysteria2直连 | 解锁 | [备用地址](https://feiniaoyun.xyz/#/register?code=1vKkRJmP) |
-| 2 | [杜卡迪](https://go.clashshome.com/dukadi) | ¥1.00 / 月 (¥12/年) | Hysteria2专线 | 解锁流媒体及ChatGPT | [备用地址](https://dukadi.info/#/register?code=pHzXpXg3) |
-| 3 | [悦通](https://go.clashshome.com/yuetong) | ¥4.15 / 月 (¥49.9/年) | VLESS+Hysteria2 | 解锁 | [备用地址](https://nshj.yue.to/#/register?code=Vp3Ug4tX) |
-| 4 | [Mitce](https://go.clashshome.com/mitcejc) | 约 ¥4.30 / 月 ($0.60) | 住宅IP+Hysteria2 | 完美解锁ChatGPT | [备用地址](https://mitce.net/aff.php?aff=33445) |
-| 5 | [cocoduck](https://go.clashshome.com/cocoduck) | ¥6.40 / 月 (¥77/年) | 全球AI支持 | 稳定全球AI支持 | [备用地址](https://dash.cocoduck.live/auth/register?code=dd1f788232) |
-| 6 | [M78 星云](https://go.clashshome.com/m78xingyun) | ¥7.80 / 月 | 三网BGP | ChatGPT全套餐解锁 | [备用地址](https://www.m78.at/#/register?code=jv0lwSHb) |
-| 7 | [宝可梦加速](https://go.clashshome.com/baokemeng) | ¥7.90 / 月 | IEPL/IPLC | 中级及以上解锁 | [备用地址](https://love.p6m6.com/#/register?code=74mX69ks) |
-| 8 | [渔云](https://go.clashshome.com/yuyunjc) | ¥9.00 / 月 | 赠送EMBY | 主流AI解锁 | [备用地址](https://cloudfisher.one/web/#/login?code=pCLOmZqp) |
-| 9 | [XSUS](https://go.clashshome.com/xsusgw) | ¥10.00 / 月 | 移动骨干+IEPL | 热门节点保证 | [备用地址](https://xs-us.xyz/register?code=G3gBe4Zs) |
-| 10 | [奈云](https://go.clashshome.com/naiyun) | ¥10.66 / 月 (¥128/年) | 海外中转 | 解锁 | [备用地址](http://6.vip.v2ny.me?path=register&code=1wIegJF2) |
-| 11 | [万达云](https://go.clashshome.com/wandayun) | ¥16.80 / 月 | IEPL专线 | 全流媒体解锁 | [备用地址](https://link.wdyserver.com/register?code=kfKBXYDH) |
-| 12 | [SSRDOG](https://go.clashshome.com/ssrdog) | ¥17.14 / 月 (¥205.7/年) | IEPL/IPLC专线 | 主流流媒体全解锁 | [备用地址](https://st2.hosbb.com/#/register?code=jqGZh87O) |
-| 13 | [乌龟加速](https://go.clashshome.com/wuguijiasu) | ¥18.00 / 月 | IEPL专线+EMBY | 全平台流媒体 | [备用地址](https://wgjiasu.com/#/login?code=NRNEFEMt) |
+| 1 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=t8yhuYXU) | ¥1.00 / 月 (¥12/年) | Hysteria2直连 | 解锁 | [备用地址]（(https://www.zhaozhishi.net/jichang/feiniaoyun)) |
+| 2 | [杜卡迪](https://go.clashshome.com/duadi) | ¥1.00 / 月 (¥12/年) | Hysteria2专线 | 解锁流媒体及ChatGPT | [备用地址](https://dukadi.info/) |
+| 3 | [悦通](https://go.clashshome.com/yuong) | ¥4.15 / 月 (¥49.9/年) | VLESS+Hysteria2 | 解锁 | [备用地址](https://nshj.yue.to/) |
+| 4 | [Mitce](https://mitce.net/aff.php?aff=18191) | 约 ¥4.30 / 月 ($0.60) | 住宅IP+Hysteria2 | 完美解锁ChatGPT | [备用地址](https://mitce.net/aff.php?aff=18191) |
+| 5 | [cocoduck](https://go.clashshome.com/cocduck) | ¥6.40 / 月 (¥77/年) | 全球AI支持 | 稳定全球AI支持 | [备用地址](https://dash.cocoduck.live/) |
+| 6 | [M78 星云](https://go.clashshome.cm/) | ¥7.80 / 月 | 三网BGP | ChatGPT全套餐解锁 | [备用地址](https://www.m78.at/) |
+| 7 | [宝可梦加速](https://go.clashshome.com/bakemeng) | ¥7.90 / 月 | IEPL/IPLC | 中级及以上解锁 | [备用地址](https://love.p6m6.com/) |
+| 8 | [渔云](https://go.clashshome.com/yuynjc) | ¥9.00 / 月 | 赠送EMBY | 主流AI解锁 | [备用地址](https://cloudfisher.one/) |
+| 9 | [XSUS](https://go.clashshome.com/xsusw) | ¥10.00 / 月 | 移动骨干+IEPL | 热门节点保证 | [备用地址](https://xs-us.xyz/) |
+| 10 | [奈云](https://go.clashshome.com/naiun) | ¥10.66 / 月 (¥128/年) | 海外中转 | 解锁 | [备用地址](http://6.vip.v2ny.me?path=register) |
+| 11 | [万达云](https://go.clashshome.com/wanda) | ¥16.80 / 月 | IEPL专线 | 全流媒体解锁 | [备用地址](https://link.wdyserver.com/) |
+| 12 | [SSRDOG](https://go.clashshome.com/ssrd) | ¥17.14 / 月 (¥205.7/年) | IEPL/IPLC专线 | 主流流媒体全解锁 | [备用地址](https://st2.hosbb.com/) |
+| 13 | [乌龟加速](https://go.clashshome.com/wuguiji) | ¥18.00 / 月 | IEPL专线+EMBY | 全平台流媒体 | [备用地址](https://wgjiasu.com/#/login) |
 
 ---
 
