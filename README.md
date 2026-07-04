@@ -44,6 +44,11 @@
 ## 一般不用梯子可直接进入的机场
 
 名气或用户基数大的机场网址往往被“墙”，要搭梯子访问，下面简要介绍一些不用梯子就能访问的性价比机场：
+<span id="feisuo"></span>
+### 特别推荐、飞梭
+- 官网入口：[https://6b8530728f3d9a87.fs100.cc](https://6b8530728f3d9a87.fs100.cc/#/register?code=h7q1cle1)
+- 自有客户端和通用订阅随选，兼容性好，电信/移动/联通三网优化 IEPL，限设备最多5台。
+- 12元=50g/月，20元=100g/月。
 
 <span id="maoyun"></span>
 ### 1、Maoyun
@@ -81,7 +86,7 @@
 |---|---|---|---|---|---|
 | 1 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=t8yhuYXU) | ¥1.00 / 月 (¥12/年) | Hysteria2直连 | 解锁 |  |
 | 2 | [杜卡迪](https://dukadi.info/#/register?code=2k4lxXBN) | ¥1.00 / 月 (¥12/年) | Hysteria2专线 | 解锁流媒体及ChatGPT |  |
-| 3 | [悦通](https://go.clashshome.com/yuong) | ¥4.15 / 月 (¥49.9/年) | VLESS+Hysteria2 | 解锁 | [备用地址](https://nshj.yue.to/) |
+| 3 | [快狸](https://kuailicloud.cc/#/register?code=BXsywN40) | 月付最低¥15/月，年付最低120元|专属客户端，敏感期也不掉线，很稳 | 解锁 |
 | 4 | [Mitce](https://mitce.net/aff.php?aff=18191) | 约 ¥4.30 / 月 ($0.60) | 住宅IP+Hysteria2 | 完美解锁ChatGPT |  |
 | 5 | [速界](https://trevona.speed-world.cc/#/register?code=EwBOivKu) | ¥20 / 月 (120G) | 全球AI支持 | 稳定全球AI支持 |  |
 | 6 | [M78 星云](https://www.m78.at/#/register?code=aMqvb66U) | ¥7.80 / 月 | 三网BGP | ChatGPT全套餐解锁 |  |
@@ -293,7 +298,7 @@
 
 <span id="sujie"></span>
 ### 5. 速界
-**官网入口**：[速界官网](https://trevona.speed-world.cc/#/register?code=EwBOivKu)  
+**官网入口**：[这里进入速界官网](https://trevona.speed-world.cc/#/register?code=EwBOivKu)  
 **优惠码**：`sujie888`
 
 **机场信息**
