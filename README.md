@@ -91,7 +91,7 @@
 | 5 | [速界](https://trevona.speed-world.cc/#/register?code=EwBOivKu) | ¥20 / 月 (120G) | 全球AI支持 | 稳定全球AI支持 |  |
 | 6 | [M78 星云](https://www.m78.at/#/register?code=aMqvb66U) | ¥7.80 / 月 | 三网BGP | ChatGPT全套餐解锁 |  |
 | 7 | [宝可梦加速](https://love.p6m6.com/#/register?code=vhX2d0ox) | ¥7.90 / 月 | IEPL/IPLC | 中级及以上解锁 |  |
-| 8 | [乌龟加速](https://wuguijs.com/#/login?code=UOpm40Ge) | ¥18.00 / 月 | IEPL专线+EMBY | 全平台流媒体 |  |
+| 8 | [乌龟加速](https://wugui11ms.cc/#/login?code=UOpm40Ge) | ¥18.00 / 月 | IEPL专线+EMBY | 全平台流媒体 |  |
 
 ---
 
@@ -406,7 +406,7 @@
 
 <span id="wugui"></span>
 ### 8. 乌龟加速
-**官网入口**：[乌龟加速官网](https://wuguijs.com/#/login?code=UOpm40Ge)  
+**官网入口**：[乌龟加速官网](https://wugui11ms.cc/#/login?code=UOpm40Ge)  
 **优惠码**：`ABING888`（全场 8 折）
 
 **机场信息**
