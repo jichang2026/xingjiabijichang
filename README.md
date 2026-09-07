@@ -76,7 +76,7 @@
 
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
 |---|---|---|---|---|---|
-| 🥇 | [宝可梦加速](https://love.p6m6.com/#/register?code=vhX2d0ox) | ¥8.80 / 月 | IEPL/IPLC | 中级及以上解锁 |  |
+| 🥇 | [宝可梦加速](https://love.p6m6.com/#/register?code=vhX2d0ox) | ¥8.80 / 月 | IEPL/IPLC | 中级及以上解锁 | 下文有 |
 | 🥇 | [网际快车](https://uexrnb.xn--66tw07h.com) | 1800g,¥20.0/月 | 非专线 | 全平台解锁 |  |
 | 🥇 | [edgenova](https://edgenova.cc/#/register?code=k9vWzAun) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 |  |
 
@@ -86,13 +86,12 @@
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
 |---|---|---|---|---|---|
 | 1 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=t8yhuYXU) | ¥1.00 / 月 (¥12/年) | Hysteria2直连 | 解锁 |  |
-| 2 | [杜卡迪](https://dukadi.info/#/register?code=2k4lxXBN) | ¥1.00 / 月 (¥12/年) | Hysteria2专线 | 解锁流媒体及ChatGPT |  |
-| 3 | [快狸](https://opm2c.ztfxkl.xyz/#/register?code=BXsywN40) | 月付最低¥15/月，年付最低120元|专属客户端，敏感期也不掉线，较稳 | 解锁 |
-| 4 | [Mitce](https://mitce.net/aff.php?aff=18191) | 约 ¥4.30 / 月 ($0.60) | 住宅IP+Hysteria2 | 完美解锁ChatGPT |  |
-| 5 | [速界](https://trevona.speed-world.cc/#/register?code=EwBOivKu) | ¥20 / 月 (120G) | 全球AI支持 | 稳定全球AI支持 |  |
-| 6 | [M78 星云](https://www.m78.at/#/register?code=aMqvb66U) | ¥7.80 / 月 | 三网BGP | ChatGPT全套餐解锁 |  |
-| 7 | [红杏云](https://hxlove23s.cc/web/#/login?code=B6PcC2tf) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 |  | 
-| 8 | [乌龟加速](https://wugui11ms.cc/#/login?code=UOpm40Ge) | ¥18.00 / 月 | IEPL专线+EMBY | 全平台流媒体 |  |
+| 2 | [快狸](https://opm2c.ztfxkl.xyz/#/register?code=BXsywN40) | 月付最低¥15/月，年付最低120元|专属客户端，敏感期也不掉线，较稳 | 解锁 |
+| 3 | [Mitce](https://mitce.net/aff.php?aff=18191) | 约 ¥4.30 / 月 ($0.60) | 住宅IP+Hysteria2 | 完美解锁ChatGPT |  |
+| 4 | [速界](https://trevona.speed-world.cc/#/register?code=EwBOivKu) | ¥20 / 月 (120G) | 全球AI支持 | 稳定全球AI支持 |  |
+| 5 | [M78 星云](https://www.m78.at/#/register?code=aMqvb66U) | ¥7.80 / 月 | 三网BGP | ChatGPT全套餐解锁 |  |
+| 6 | [红杏云](https://hxlove23s.cc/web/#/login?code=B6PcC2tf) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | 下文有 | 
+| 7 | [乌龟加速](https://wugui11ms.cc/#/login?code=UOpm40Ge) | ¥18.00 / 月 | IEPL专线+EMBY | 全平台流媒体 |  |
 ---
 
 <span id="quickstart"></span>
@@ -141,7 +140,7 @@
 对于特殊网络环境（如新疆）的用户非常友好，专线质量可靠。
 
 **套餐一览**：
-- 入门精灵球：¥7.9/月（60GB）
+- 入门精灵球：¥8.8/月（60GB）
 - 中级精灵球：¥19.9/月（180GB）
 - 高级精灵球：¥29.9/月（300GB）
 
