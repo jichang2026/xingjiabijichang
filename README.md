@@ -27,7 +27,7 @@
   - [2. edgenova](#edgenova)
 - [其他性价比机场（按月付价格排列）](#others-detail)
   - [1. 飞鸟云](#feiniaoyun)
-  - [2. 杜卡迪](#dukadi)
+  - [2. 网际快车](#wjkc)
   - [3. 悦通](#yuetong)
   - [4. Mitce](#mitce)
   - [5. 速界](#sujie)
@@ -76,8 +76,8 @@
 
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
 |---|---|---|---|---|---|
-| 🥇 | [红杏云](https://hongxingyun.pro/web/#/login?code=B6PcC2tf) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](https://hongxingyun1.com/web/#/login?code=B6PcC2tf) |
-| 🥇 | [edgenova](https://lunvexa.edgenovayun.cc/#/register?code=k9vWzAun) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 |  |
+| 🥇 | [红杏云](https://hxlove23s.cc/web/#/login?code=B6PcC2tf) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](https://hxlove21s.cc/web/#/login?code=B6PcC2tf) |
+| 🥇 | [edgenova](https://edgenova.cc/#/register?code=k9vWzAun) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 |  |
 
 <span id="others"></span>
 ### 📋 其他机场（按月付价格排列）
@@ -86,7 +86,7 @@
 |---|---|---|---|---|---|
 | 1 | [飞鸟云](https://feiniaoyun.xyz/#/register?code=t8yhuYXU) | ¥1.00 / 月 (¥12/年) | Hysteria2直连 | 解锁 |  |
 | 2 | [杜卡迪](https://dukadi.info/#/register?code=2k4lxXBN) | ¥1.00 / 月 (¥12/年) | Hysteria2专线 | 解锁流媒体及ChatGPT |  |
-| 3 | [快狸](https://kuailicloud.cc/#/register?code=BXsywN40) | 月付最低¥15/月，年付最低120元|专属客户端，敏感期也不掉线，很稳 | 解锁 |
+| 3 | [快狸](https://opm2c.ztfxkl.xyz/#/register?code=BXsywN40) | 月付最低¥15/月，年付最低120元|专属客户端，敏感期也不掉线，较稳 | 解锁 |
 | 4 | [Mitce](https://mitce.net/aff.php?aff=18191) | 约 ¥4.30 / 月 ($0.60) | 住宅IP+Hysteria2 | 完美解锁ChatGPT |  |
 | 5 | [速界](https://trevona.speed-world.cc/#/register?code=EwBOivKu) | ¥20 / 月 (120G) | 全球AI支持 | 稳定全球AI支持 |  |
 | 6 | [M78 星云](https://www.m78.at/#/register?code=aMqvb66U) | ¥7.80 / 月 | 三网BGP | ChatGPT全套餐解锁 |  |
@@ -116,7 +116,7 @@
 
 <span id="hongxingyun"></span>
 ### 1. 红杏云
-**官网入口**：[红杏云官网](https://hongxingyun.pro/web/#/login?code=B6PcC2tf)，[备用地址](https://hongxingyun1.com/web/#/login?code=B6PcC2tf)  
+**官网入口**：[红杏云官网](https://hxlove21s.cc/web/#/login?code=B6PcC2tf)，[备用地址](https://hxlove22s.cc/web/#/login?code=B6PcC2tf)  
 **优惠码**：`ABING888`（全场 8 折）
 
 **机场信息**
@@ -149,7 +149,7 @@
 
 <span id="edgenova"></span>
 ### 2. edgenova
-**官网入口**：[edgenova 官网](https://lunvexa.edgenovayun.cc/#/register?code=k9vWzAun)
+**官网入口**：[edgenova 官网](https://sadxzc03.ztymforedge.lol/#/register?code=k9vWzAun)
 
 **已整理信息**
 - 最低价格：¥20.00 / 月
@@ -194,38 +194,37 @@
 
 ---
 
-<span id="dukadi"></span>
-### 2. 杜卡迪
-**官网入口**：[杜卡迪官网](https://dukadi.info/#/register?code=2k4lxXBN)  
+<span id="wjkc"></span>
+### 2. 网际快车
+**官网入口**：[杜卡迪官网](https://uexrnb.xn--66tw07h.com)  
 **优惠码**：无
 
 **机场信息**
 - 开业时间：待补充
-- 节点地区：全球主流地区
-- 节点数量：待补充
-- 协议：Hysteria2
+- 节点地区：主流地区及日本、台湾家宽、美国、英、奥地利、德、意、巴西和哈萨克斯坦
+- 节点数量：50个左右
+- 技术补充：通用订阅和软路由支持
 - 设备限制：不限制
 - 付款方式：支付宝 / 微信
-- TG 频道：[点击加入](https://t.me/dukadi996)
-- 一键客户端：无
+- TG 频道：(https://t.me/wjkc66)
+- 一键客户端：有，叫快车VPN
 
 **优势**：
-- 同样提供年付 12 元的传家套餐，每月 200G 流量，性价比极高。
-- 高速专线接入，延迟极低。
+- 日享套餐流量多，28元有1800G流量，性价比极高。
+- 4K视频秒开。
 - 支持解锁流媒体及 ChatGPT。
 
 **缺点**：
 - 传家套餐限速 100Mbps。
-- 无一键客户端。
 - 偶尔超时，要等修复。
 
 **使用体验**：
-流量给得很足，12 元一年能有每月 200G，日常查资料看视频完全够用。相比较于外面万人骑的一元机场，杜卡迪还是很值的。
+流量给得很足，日常查资料看视频完全够用。相比较于外面万人骑的一元机场，网际快车还是很值的。
 
 **套餐一览**：
-- 传家套餐：¥12/年（200GB/月，限速 100Mbps）
-- 入门套餐：¥9.9/月（2000GB/月，限速 300Mbps）
-- 中级套餐：¥24/月（6000GB/月，不限速）
+- 日享套餐：¥28/月（1800GB/月，每日上限60G）
+- 入门套餐：20g是6.8元
+- 不限时套餐：不限时100GB是24元
 
 ---
 
@@ -241,7 +240,7 @@
 - 协议：VLESS + Hysteria2
 - 设备限制：5 台（普通套餐）
 - 付款方式：支付宝 / 微信
-- TG 频道：[点击加入](https://t.me/yue_to)
+- TG 频道：(https://t.me/yue_to)
 - 一键客户端：Windows / macOS / Android / Linux
 
 **优势**：
@@ -275,7 +274,7 @@
 - 协议：VLESS + Reality、Hysteria2
 - 设备限制：5-10 台
 - 付款方式：支付宝、微信、PayPal、USDT 等
-- TG 频道：[点击加入](https://t.me/Mitce_IDGAF)
+- TG 频道：(https://t.me/Mitce_IDGAF)
 - 一键客户端：无
 
 **优势**：
@@ -350,7 +349,7 @@
 - 协议：ShadowSocks
 - 设备限制：不限制
 - 付款方式：支付宝 / 微信 / USDT
-- TG 频道：[点击加入](https://t.me/M78CheckIn_bot)
+- TG 频道：(https://t.me/M78CheckIn_bot)
 - 一键客户端：Windows / Android / Mac
 
 **优势**：
@@ -383,7 +382,7 @@
 - 协议：Trojan + SS + Hysteria2 + VLESS
 - 设备限制：5-不限
 - 付款方式：支付宝 / 微信
-- TG 频道：[点击加入](https://t.me/pokemon_love)
+- TG 频道：(https://t.me/pokemon_love)
 - 一键客户端：Android / Windows / Mac
 
 **优势**：
@@ -406,7 +405,7 @@
 
 <span id="wugui"></span>
 ### 8. 乌龟加速
-**官网入口**：[乌龟加速官网](https://wugui11ms.cc/#/login?code=UOpm40Ge)  
+**官网入口**：[乌龟加速官网](https://wugui9ms.cc/#/login?code=UOpm40Ge)  
 **优惠码**：`ABING888`（全场 8 折）
 
 **机场信息**
@@ -416,7 +415,7 @@
 - 协议：Hysteria2
 - 设备限制：不限制
 - 付款方式：支付宝 / 微信 / USDT
-- TG 频道：[点击加入](https://t.me/wgjsq_bot)
+- TG 频道：(https://t.me/wgjsq_bot)
 - 一键客户端：无
 
 **优势**：
@@ -443,7 +442,7 @@
 在选择**性价比机场**时，不要仅仅盯着价格看。**一元机场**和**便宜机场**虽然诱人，但往往在晚高峰速度或节点稳定性上有所妥协。建议采用“主备结合”的策略：
 
 1. 购买一个带有专线的高性价比机场作为主力，如 **红杏云**、**edgenova**、**速界**，稳定性和解锁能力通常更有保障。  
-2. 搭配一个极低价格的年付机场，如 **飞鸟云**、**杜卡迪**，或补充一个灵活型套餐，如 **悦通**，作为备用。
+2. 搭配一个极低价格的年付机场，如 **飞鸟云**、**网际快车**，或补充一个灵活型套餐，如 **悦通**，作为备用。
 
 这样既能保证日常使用的流畅度，又能在突发情况下减少断连风险，实现真正的低价高性价比体验。
 
@@ -451,7 +450,7 @@
 
 <span id="update"></span>
 ## 📌 更新记录
-
+- 2026-09-07：移除杜卡迪，增加网际快车。更新机场最新稳定链接。
 - 2026-06-24：新增“一般不用梯子可直接进入的机场”版块；移除快雷GO、cocoduck、渔云、XSUS、奈云、万达云、SSRDOG，并同步整理目录与详情结构
 - 2026-04-23：更新悦通、M78 星云优惠码
 - 2026-04-23：更新红杏云信息
