@@ -76,7 +76,8 @@
 
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
 |---|---|---|---|---|---|
-| 🥇 | [宝可梦加速](https://love.p6m6.com/#/register?code=vhX2d0ox) | ¥7.90 / 月 | IEPL/IPLC | 中级及以上解锁 |  |
+| 🥇 | [宝可梦加速](https://love.p6m6.com/#/register?code=vhX2d0ox) | ¥8.80 / 月 | IEPL/IPLC | 中级及以上解锁 |  |
+| 🥇 | [网际快车](https://uexrnb.xn--66tw07h.com) | 1800g,¥20.0/月 | 非专线 | 全平台解锁 |  |
 | 🥇 | [edgenova](https://edgenova.cc/#/register?code=k9vWzAun) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 |  |
 
 <span id="others"></span>
@@ -165,7 +166,7 @@
 - 支持解锁流媒体及 ChatGPT。
 
 **缺点**：
-- 传家套餐限速 100Mbps。
+- 开业时间不悠久，名气不大又让人误会是同名下载软件
 - 偶尔超时，要等修复。
 
 **使用体验**：
