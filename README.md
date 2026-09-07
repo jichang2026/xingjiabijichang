@@ -196,7 +196,7 @@
 
 <span id="wjkc"></span>
 ### 2. 网际快车
-**官网入口**：[杜卡迪官网](https://uexrnb.xn--66tw07h.com)  
+**官网入口**：[进官网](https://uexrnb.xn--66tw07h.com)  
 **优惠码**：无
 
 **机场信息**
