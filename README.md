@@ -76,7 +76,7 @@
 
 | 排名 | 机场名称 | 最低价格（折合月付） | 线路特色 | AI 支持情况 | 官网备用地址 |
 |---|---|---|---|---|---|
-| 🥇 | [红杏云](https://hxlove23s.cc/web/#/login?code=B6PcC2tf) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 | [备用地址](https://hxlove21s.cc/web/#/login?code=B6PcC2tf) |
+| 🥇 | [宝可梦加速](https://love.p6m6.com/#/register?code=vhX2d0ox) | ¥7.90 / 月 | IEPL/IPLC | 中级及以上解锁 |  |
 | 🥇 | [edgenova](https://edgenova.cc/#/register?code=k9vWzAun) | ¥20.00 / 月 | IEPL专线 | 全平台解锁 |  |
 
 <span id="others"></span>
@@ -90,9 +90,8 @@
 | 4 | [Mitce](https://mitce.net/aff.php?aff=18191) | 约 ¥4.30 / 月 ($0.60) | 住宅IP+Hysteria2 | 完美解锁ChatGPT |  |
 | 5 | [速界](https://trevona.speed-world.cc/#/register?code=EwBOivKu) | ¥20 / 月 (120G) | 全球AI支持 | 稳定全球AI支持 |  |
 | 6 | [M78 星云](https://www.m78.at/#/register?code=aMqvb66U) | ¥7.80 / 月 | 三网BGP | ChatGPT全套餐解锁 |  |
-| 7 | [宝可梦加速](https://love.p6m6.com/#/register?code=vhX2d0ox) | ¥7.90 / 月 | IEPL/IPLC | 中级及以上解锁 |  |
+| 7 | [红杏云](https://hxlove23s.cc/web/#/login?code=B6PcC2tf) | ¥20.00 / 月 | IEPL专线+原生住宅 | 全平台解锁 |  | 
 | 8 | [乌龟加速](https://wugui11ms.cc/#/login?code=UOpm40Ge) | ¥18.00 / 月 | IEPL专线+EMBY | 全平台流媒体 |  |
-
 ---
 
 <span id="quickstart"></span>
@@ -114,85 +113,36 @@
 <span id="best-value-detail"></span>
 ## ⭐ 性价比最高推荐
 
-<span id="hongxingyun"></span>
-### 1. 红杏云
-**官网入口**：[红杏云官网](https://hxlove21s.cc/web/#/login?code=B6PcC2tf)，[备用地址](https://hxlove22s.cc/web/#/login?code=B6PcC2tf)  
-**优惠码**：`ABING888`（全场 8 折）
+<span id="baokemeng"></span>
+### 1. 宝可梦加速
+**官网入口**：[宝可梦加速官网](https://love2.p6m6.com/#/register?code=vhX2d0ox), [备用官网](https://love.p6m6.com/#/register?code=vhX2d0ox)  
+**优惠码**：`9999`（新用户首单 9 折）
 
 **机场信息**
-- 开业时间：2023 年
-- 节点地区：香港、台湾、日本、新加坡、美国等
-- 节点数量：50+
-- 协议：VLESS + Hysteria2 + AnyTLS
-- 设备限制：不限制
-- 付款方式：支付宝 / 微信 / USDT
-- TG 频道：[点击加入](https://t.me/Hongxingyun_bot)
-- 一键客户端：Windows / Mac / Android / iOS / 软路由
-
-**优势**：
-- IEPL 专线 + 移动骨干接入，晚高峰稳定。
-- 完美解锁流媒体及 ChatGPT，附赠 EMBY。
-- 节点可用率高。
-
-**缺点**：
-- 起步价格略高。
-
-**使用体验**：
-一分钱一分货，客服响应也很及时。近期已经恢复原生家宽节点。
-
-**套餐一览**：
-- 轻量-包月 200G：¥20/月
-- 冲浪-包月 500G：¥40/月
-- 高级-不限时 3000G：¥388/一次性
-
----
-
-<span id="edgenova"></span>
-### 2. edgenova
-**官网入口**：[edgenova 官网](https://sadxzc03.ztymforedge.lol/#/register?code=k9vWzAun)
-
-**已整理信息**
-- 最低价格：¥20.00 / 月
-- 线路特色：IEPL 专线
-- AI 支持情况：全平台解锁
-
----
-
-<span id="others-detail"></span>
-## 📋 其他性价比机场（按月付价格排列）
-
-<span id="feiniaoyun"></span>
-### 1. 飞鸟云
-**官网入口**：[飞鸟云官网](https://feiniaoyun.xyz/#/register?code=t8yhuYXU)  
-**优惠码**：无
-
-**机场信息**
-- 开业时间：2022 年
-- 节点地区：香港、台湾、日本、新加坡、美国
-- 节点数量：40+
-- 协议：Hysteria2 + Trojan + VLESS
-- 设备限制：不限制
+- 开业时间：2024 年
+- 节点地区：香港、台湾、日本、新加坡等 30+ 节点
+- 节点数量：100+
+- 协议：Trojan + SS + Hysteria2 + VLESS
+- 设备限制：5-不限
 - 付款方式：支付宝 / 微信
-- TG 频道：[点击加入](https://t.me/feiniaoyunjichang)
-- 一键客户端：不支持
+- TG 频道：(https://t.me/pokemon_love)
+- 一键客户端：Android / Windows / Mac
 
 **优势**：
-- 极致低价，年付仅需 12 元，真正的“一元机场”。
-- 采用 Hysteria2 协议，弱网环境下表现优异。
-- 不限制设备数量和网速。
+- 新疆地区可用，直连 + 专线双重保障。
+- IEPL / IPLC 专线，稳定性高。
+- 节点数量多，覆盖广。
 
 **缺点**：
-- 纯境外直连，晚高峰延迟可能受运营商影响较大。
+- 入门套餐不包含流媒体和 ChatGPT 解锁。
 
 **使用体验**：
-早几年就用的一家，最近升级了节点和协议还不错。作为备用机场非常完美，12 元一年的价格买个保险绝对不亏。
+对于特殊网络环境（如新疆）的用户非常友好，专线质量可靠。
 
 **套餐一览**：
-- 传家宝：¥12/年（50GB/月）
-- 传家宝加大版：¥24/年（100GB/月）
-- 月付 200G：¥10/月
-
----
+- 入门精灵球：¥7.9/月（60GB）
+- 中级精灵球：¥19.9/月（180GB）
+- 高级精灵球：¥29.9/月（300GB）
 
 <span id="wjkc"></span>
 ### 2. 网际快车
@@ -227,7 +177,82 @@
 - 不限时套餐：不限时100GB是24元
 
 ---
+<span id="edgenova"></span>
+### 3. edgenova
+**官网入口**：[edgenova 官网](https://sadxzc03.ztymforedge.lol/#/register?code=k9vWzAun)
 
+**已整理信息**
+- 最低价格：¥20.00 / 月
+- 线路特色：IEPL 专线
+- AI 支持情况：全平台解锁
+<span id="others-detail"></span>
+## 📋 其他性价比机场（排列有随机性）
+---
+
+<span id="feiniaoyun"></span>
+### 1. 飞鸟云
+**官网入口**：[飞鸟云官网](https://feiniaoyun.xyz/#/register?code=t8yhuYXU)  
+**优惠码**：无
+
+**机场信息**
+- 开业时间：2022 年
+- 节点地区：香港、台湾、日本、新加坡、美国
+- 节点数量：40+  看看[飞鸟云机场怎么样](https://sites.google.com/view/feiniaoyun/)
+- 协议：Hysteria2 + Trojan + VLESS
+- 设备限制：不限制
+- 付款方式：支付宝 / 微信
+- TG 频道：{https://t.me/feiniaoyunjichang}
+- 一键客户端：不支持
+
+**优势**：
+- 极致低价，年付仅需 12 元，真正的“一元机场”。
+- 采用 Hysteria2 协议，弱网环境下表现优异。
+- 不限制设备数量和网速。
+
+**缺点**：
+- 纯境外直连，晚高峰延迟可能受运营商影响较大。
+
+**使用体验**：
+早几年就用的一家，最近升级了节点和协议还不错。作为备用机场非常完美，12 元一年的价格买个保险绝对不亏。
+
+**套餐一览**：
+- 传家宝：¥12/年（50GB/月）
+- 传家宝加大版：¥24/年（100GB/月）
+- 月付 200G：¥10/月
+
+---
+<span id="hongxingyun"></span>
+### 2. 红杏云
+**官网入口**：[红杏云官网](https://hxlove21s.cc/web/#/login?code=B6PcC2tf)，[备用地址](https://hxlove22s.cc/web/#/login?code=B6PcC2tf)  
+**优惠码**：`ABING888`（全场 8 折）
+
+**机场信息**
+- 开业时间：2023 年
+- 节点地区：香港、台湾、日本、新加坡、美国等
+- 节点数量：50+
+- 协议：VLESS + Hysteria2 + AnyTLS
+- 设备限制：不限制
+- 付款方式：支付宝 / 微信 / USDT
+- TG 频道：{https://t.me/Hongxingyun_bot}
+- 一键客户端：Windows / Mac / Android / iOS / 软路由
+
+**优势**：
+- IEPL 专线 + 移动骨干接入，晚高峰稳定。
+- 完美解锁流媒体及 ChatGPT，附赠 EMBY。
+- 节点可用率高。
+
+**缺点**：
+- 起步价格略高。
+
+**使用体验**：
+一分钱一分货，客服响应也很及时。近期已经恢复原生家宽节点。
+
+**套餐一览**：
+- 轻量-包月 200G：¥20/月
+- 冲浪-包月 500G：¥40/月
+- 高级-不限时 3000G：¥388/一次性
+
+---
 <span id="yuetong"></span>
 ### 3. 悦通
 **官网入口**：[悦通官网](https://my.yue.to/#/register?code=vPXRF4MR)  
@@ -274,7 +299,7 @@
 - 协议：VLESS + Reality、Hysteria2
 - 设备限制：5-10 台
 - 付款方式：支付宝、微信、PayPal、USDT 等
-- TG 频道：(https://t.me/Mitce_IDGAF)
+- TG 频道：{https://t.me/Mitce_IDGAF}
 - 一键客户端：无
 
 **优势**：
@@ -370,41 +395,8 @@
 
 ---
 
-<span id="baokemeng"></span>
-### 7. 宝可梦加速
-**官网入口**：[宝可梦加速官网](https://love.p6m6.com/#/register?code=vhX2d0ox)  
-**优惠码**：`9999`（新用户首单 9 折）
-
-**机场信息**
-- 开业时间：2024 年
-- 节点地区：香港、台湾、日本、新加坡等 30+ 节点
-- 节点数量：100+
-- 协议：Trojan + SS + Hysteria2 + VLESS
-- 设备限制：5-不限
-- 付款方式：支付宝 / 微信
-- TG 频道：(https://t.me/pokemon_love)
-- 一键客户端：Android / Windows / Mac
-
-**优势**：
-- 新疆地区可用，直连 + 专线双重保障。
-- IEPL / IPLC 专线，稳定性高。
-- 节点数量多，覆盖广。
-
-**缺点**：
-- 入门套餐不包含流媒体和 ChatGPT 解锁。
-
-**使用体验**：
-对于特殊网络环境（如新疆）的用户非常友好，专线质量可靠。
-
-**套餐一览**：
-- 入门精灵球：¥7.9/月（60GB）
-- 中级精灵球：¥19.9/月（180GB）
-- 高级精灵球：¥29.9/月（300GB）
-
----
-
 <span id="wugui"></span>
-### 8. 乌龟加速
+### 7. 乌龟加速
 **官网入口**：[乌龟加速官网](https://wugui9ms.cc/#/login?code=UOpm40Ge)  
 **优惠码**：`ABING888`（全场 8 折）
 
